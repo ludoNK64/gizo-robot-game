@@ -6,6 +6,6 @@ the road. A screenshot is available [here](img/screenshot.png).
 Use ```Spacebar``` to jump.
 
 ### Note
-Now, if you die the game close immediately. It will be fix in later
+Now, if you die the game close immediately. It will be fixed in later
 version. Your score is stored in the ```highscore``` file.
 
